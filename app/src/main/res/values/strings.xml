@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Service_Demo</string>
+    <string name="startService">开始服务</string>
+    <string name="stopService">停止服务</string>
+</resources>
